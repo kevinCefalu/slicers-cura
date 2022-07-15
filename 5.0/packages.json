@@ -1,0 +1,165 @@
+{
+    "dismissed": [
+        "GcodeFilenameFormat",
+        "CustomSupports"
+    ],
+    "installed": {
+        "BarbarianPlugin": {
+            "filename": "C:\\Users\\Kevin\\AppData\\Local\\cura\\4.12\\cache\\cura_packages\\BarbarianPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "nallath",
+                    "display_name": "nallath",
+                    "email": "j.vankessel@ultimaker.com",
+                    "website": "http://www.github.com/nallath"
+                },
+                "description": "An extension that enables users to quickly convert models from inches to metric",
+                "display_name": "Barbarian Units",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "BarbarianPlugin",
+                "package_type": "plugin",
+                "package_version": "2.3.2",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "http://www.github.com/nallath/barbarianPlugin"
+            }
+        },
+        "MeshTools": {
+            "filename": "C:\\Users\\Kevin\\AppData\\Local\\cura\\4.12\\cache\\cura_packages\\MeshTools.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Adds several mesh analysis and manipulation tools.\n\nThe development of this plugin can be sponsored via Github Sponsors (https://github.com/sponsors/fieldofview) or Paypal (https://www.paypal.me/fieldofview)",
+                "display_name": "Mesh Tools",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "MeshTools",
+                "package_type": "plugin",
+                "package_version": "3.7.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/fieldOfView/Cura-MeshTools"
+            }
+        },
+        "OctoPrintPlugin": {
+            "filename": "C:\\Users\\Kevin\\AppData\\Local\\cura\\5.0\\cache\\cura_packages\\OctoPrintPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Enables networked printing and monitoring with OctoPrint.\n\nOctoPrint is a registered trademark. For more information about OctoPrint, see octoprint.org\n\nThe development of this plugin can be sponsored via Github Sponsors (https://github.com/sponsors/fieldofview) or Paypal (https://www.paypal.me/fieldofview)",
+                "display_name": "OctoPrint Connection",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "OctoPrintPlugin",
+                "package_type": "plugin",
+                "package_version": "3.7.2",
+                "sdk_version": 8,
+                "sdk_version_semver": "8.0.0",
+                "website": "https://github.com/fieldOfView/Cura-OctoPrintPlugin"
+            }
+        },
+        "OrientationPlugin": {
+            "filename": "C:\\Users\\Kevin\\AppData\\Local\\cura\\5.0\\cache\\cura_packages\\OrientationPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "nallath",
+                    "display_name": "nallath",
+                    "email": "j.vankessel@ultimaker.com",
+                    "website": "http://www.github.com/nallath"
+                },
+                "description": "Extension that enables the automatic orientation of models to reduce the need for support. This wraps the MeshTweaker by Christoph Schranz, so it can be easily used in Cura. ",
+                "display_name": "Auto-Orientation",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "OrientationPlugin",
+                "package_type": "plugin",
+                "package_version": "3.7.1",
+                "sdk_version": 8,
+                "sdk_version_semver": "8.0.0",
+                "website": "https://github.com/nallath/CuraOrientationPlugin"
+            }
+        },
+        "SettingsGuide2": {
+            "filename": "C:\\Users\\Kevin\\AppData\\Local\\cura\\5.0\\cache\\cura_packages\\SettingsGuide2.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "Ghostkeeper",
+                    "display_name": "Ghostkeeper",
+                    "email": "rubend@tutanota.com",
+                    "website": "https://github.com/Ghostkeeper"
+                },
+                "description": "A guide on what settings do and how to use them.\nRight-click on a setting to access the guide.",
+                "display_name": "Settings Guide",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "SettingsGuide2",
+                "package_type": "plugin",
+                "package_version": "2.9.0",
+                "sdk_version": 8,
+                "sdk_version_semver": "8.0.0",
+                "website": "https://github.com/Ghostkeeper/SettingsGuide"
+            }
+        },
+        "SidebarGUIPlugin": {
+            "filename": "C:\\Users\\Kevin\\AppData\\Local\\cura\\5.0\\cache\\cura_packages\\SidebarGUIPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Provides an alternative interface which restores the sidebar.\n\nThe development of this plugin can be sponsored via Github Sponsors (https://github.com/sponsors/fieldofview) or Paypal (https://www.paypal.me/fieldofview)",
+                "display_name": "Sidebar GUI",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "SidebarGUIPlugin",
+                "package_type": "plugin",
+                "package_version": "4.3.0",
+                "sdk_version": 8,
+                "sdk_version_semver": "8.0.0",
+                "website": "https://github.com/fieldOfView/Cura-SidebarGUIPlugin"
+            }
+        },
+        "StartOptimiser": {
+            "filename": "C:\\Users\\Kevin\\AppData\\Local\\cura\\4.12\\cache\\cura_packages\\StartOptimiser.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Lets the user optimise the Cura startup time by only loading configuration files for printers that are currently configured in Cura.\n\nThe development of this plugin can be sponsored via Github Sponsors (https://github.com/sponsors/fieldofview) or Paypal (https://www.paypal.me/fieldofview)",
+                "display_name": "Startup Optimiser",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "StartOptimiser",
+                "package_type": "plugin",
+                "package_version": "3.6.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/fieldOfView/Cura-StartOptimiser"
+            }
+        }
+    },
+    "to_install": {},
+    "to_remove": [],
+    "version": 1
+}
